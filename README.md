@@ -50,7 +50,8 @@ python purecheck.py
 🚀 Develop a mobile app for real-time results 📱
 
 📜 License
-📌 PureCheck is the intellectual property of Poorvi Shrivastava.
+
+📌 PureCheck is the intellectual property of Poorvi Shrivastava. This project is License under MIT.
 © 2024 Poorvi Shrivastava. All rights reserved.
 
 💡 Want to contribute? Feel free to fork, star ⭐, and raise issues!
