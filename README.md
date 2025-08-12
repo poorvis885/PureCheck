@@ -1,4 +1,4 @@
-# Milk & Food Adulteration Detection System
+# Multi Sensor Adulteration Detection System
 
 ## Overview
 The **Milk & Food Adulteration Detection System** is an advanced AI and IoT-based solution designed to detect adulterants in milk, fruits, and vegetables using state-of-the-art sensors and machine learning techniques. This system ensures food safety by providing **rapid, accurate, and user-friendly** adulteration detection.
